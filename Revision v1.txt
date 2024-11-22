@@ -1,0 +1,15 @@
+Revision v1
+
+Tapos:
+1. Admin account creation.(interface ng requesting ng documents) (ung leave interface para sa Employee)
+
+Hindi pa tapos:
+1. Employee document request interface.
+2. Employee interface.
+3. HR interface.
+4. Document requesting.
+5. Leave requesting.
+6. accepting ng leave may mag sesend dapat na notification dun sa nag request na tinanggap na ung request nila same sa documents.
+7. Monitoring of arrivals and printed PDFs. (yung sa excel ata to sinasabi niya)
+8. Archive feature
+9. Logs for requests.
